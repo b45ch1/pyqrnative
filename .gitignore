@@ -1,0 +1,15 @@
+*.*
+.*
+
+lib/
+MANIFEST
+
+# exceptions
+!*.py
+!*.rst
+!*.txt
+!.gitignore
+!.gitkeep
+
+# exception of the exception
+version.py
